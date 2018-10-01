@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.pdb
